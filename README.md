@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldrichsancho&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldrichsancho&hide=javascript,css,scss,html&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldrichsancho)](https://github.com/aldrichsancho/github-readme-stats)
