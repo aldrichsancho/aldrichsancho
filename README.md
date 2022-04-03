@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Aldrich 👋
+
+Hi, I'm Aldrich Sancho. Fresh Graduate from The Maranatha Christian University with a Major in Computer Science and have interested in UI/UX Design and Front-End field.
 
 <!--
 **aldrichsancho/aldrichsancho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
